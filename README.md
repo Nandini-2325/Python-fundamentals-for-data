@@ -41,6 +41,7 @@ age = int(input("Enter your age: "))
 print("Hello", name + ",", "Welcome to the community centre!", 
       "At", str(age) + ",", "you're eligible for our young adults programme."
 
+<img width="864" height="63" alt="image" src="https://github.com/user-attachments/assets/786aaf45-e4e4-41fb-b3b5-602f48fac160" />
 
 
 Task: Ask the customer for the length and width of their kitchen in meters. Calculate the total area and total cost (£12 per m²).
